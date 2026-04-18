@@ -1,5 +1,10 @@
-这是我的笔记
-- [[讓 AI 陪你閱讀]]
-- [[万维钢：三层自我]]
-- [[202604181729]]
-- 
+> Since 20260418
+
+202604: 受[善用佳软](https://zhang-yuxin.com/)启发，搭建这个网站
+
+
+
+
+**About This Webs**
+
+Powered by: Obsidian, Quartz and Cloudflare.  | 202604
