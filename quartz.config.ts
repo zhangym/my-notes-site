@@ -9,14 +9,14 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "MindMining",
-    pageTitleSuffix: "Perceiving, Awakening, Practicing",
+    pageTitleSuffix: " | Perceiving, Awakening, Practicing",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "zh-CN",
+    baseUrl: "https://my-notes-site.pages.dev/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
